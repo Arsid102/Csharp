@@ -23,7 +23,7 @@ namespace flappiebird {
         Graphics g;
         Rectangle rbird;
         Rectangle[] buisboven, buisonder;
-
+        //zekjfgqoekrlgjsmeorgijeroîgj
         private void Tmrachtergrond_Tick(object sender, EventArgs e) {
             toonbuizen();
             pastijd++;
